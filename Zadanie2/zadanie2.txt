@@ -1,2 +1,4 @@
 przyk³adowy tekst -commit 1
 przyk³adowy tekst -commit 2
+
+przyk³adowy tekst -commit 3
